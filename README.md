@@ -2,7 +2,7 @@
 
 This is a super simple script that can take a transaction export CSV from monarch money and generate a balances.csv for upload. Use it when you have exported transactions from mint into Monarch.
 
-* Basic Process *
+## Basic Process ##
 
   1. Ensure you set the usual working path at the top of the script.
   2. Export transactions from Mint.
